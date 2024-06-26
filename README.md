@@ -1,0 +1,1 @@
+# customized-string-class
